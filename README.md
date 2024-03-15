@@ -12,5 +12,6 @@ Efficiently manage your product catalog with our products management module. Add
 
 Orders Management:
 Streamline your order processing workflow with our orders management module. From order creation to fulfillment, our system automates the entire process, saving you time and reducing errors. Track order status, manage returns and exchanges, and communicate with customers seamlessly. With our orders management module, you can ensure timely delivery and customer satisfaction.
+
 Host:
 here we use the vercel app to host the website.
